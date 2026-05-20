@@ -17,7 +17,7 @@ M2Caps is a novel deep learning framework for multi-modal land cover classificat
 - Multi-modal fusion of optical and SAR imagery
 - Capsule network-based feature learning
 - Cascaded feature fusion for progressive refinement
-- Support for multiple benchmark datasets (ISPRS Vaihingen, ISPRS Potsdam, WHU-OPT-SAR)
+- Support for multiple benchmark datasets (WHU-OPT-SAR)
 - PyTorch Lightning training framework
 
 ## 🏗️ Network Architecture
@@ -43,8 +43,6 @@ The M2Caps network consists of:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/M2Caps.git
-cd M2Caps
 pip install -r requirements.txt
 ```
 
