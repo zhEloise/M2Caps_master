@@ -107,7 +107,7 @@ If you find this work useful for your research, please cite:
 
 ## 🙏 Acknowledgements
 
-This work is based on PyTorch and PyTorch Lightning. We thank the authors of the ISPRS and WHU datasets for making their data publicly available.
+This work is based on PyTorch and PyTorch Lightning. We thank the authors of the WHU datasets for making their data publicly available.
 
 ## 📄 License
 
